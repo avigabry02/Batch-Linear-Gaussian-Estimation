@@ -1,5 +1,3 @@
-# Batch-Linear-Gaussian-Estimation
-
 # Batch Linear Gaussian Estimation (1D Robot Localization)
 
 ## Project Overview
