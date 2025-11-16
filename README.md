@@ -16,8 +16,7 @@ The estimation fuses high-frequency odometry data with sparse range measurements
 
 ## Technologies & Tools
 
-* **Language:** MATLAB / Octave
-* **Data Handling:** Linear Interpolation, FFT (Implicit in data analysis)
+* **Language:** MATLAB
 * **Core Concepts:** Linear-Gaussian Systems, Weighted Least Squares (WLS), Information Matrix ($\mathbf{H}$), Sensor Fusion, Observability.
 
 ## Key Findings (Consistency vs. Efficiency)
